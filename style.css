@@ -1,0 +1,25 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: rgb(69, 65, 65);
+}
+h2{
+    font-size: 50px;
+}
+p{
+    30px
+}
+#myImage{
+     padding: 10px;
+     width: 500px;
+}
+button{
+    /* width: 50%; */
+    padding: 30px;
+    font-size: 20px;
+    background-color:lightblue;
+    color: bisque;
+}
